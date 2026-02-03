@@ -38,7 +38,7 @@
 ---
 
 ## Run 2
-
+```json
 {
 "topic": "Platypus",
 "key_points": [
@@ -69,7 +69,7 @@
 ---
 
 ## Run 3
-
+```json
 {
 "topic": "Platypus",
 "key_points": [
