@@ -9,20 +9,99 @@
 ## Run 1
 ```json
 {
-  "topic": "Artificial intelligence reliability and control",
-  "key_points": [
-    {
-      "point": "Artificial intelligence is widely used in data analysis and automation.",
-      "confidence": "high"
-    },
-    {
-      "point": "Many AI systems produce inconsistent outputs and hallucinated information.",
-      "confidence": "high"
-    },
-    {
-      "point": "Improving reliability and structured control is a major ongoing challenge.",
-      "confidence": "high"
-    }
-  ],
-  "summary": "The text discusses the widespread use of artificial intelligence in data analysis and automation while highlighting persistent problems with inconsistent and hallucinated outputs, emphasizing the need for better reliability and structured control."
+"topic": "Platypus",
+"key_points": [
+{
+"point": "The platypus is a mammal native to Australia.",
+"confidence": "high"
+},
+{
+"point": "It lays eggs and has a cloaca, unlike most mammals.",
+"confidence": "high"
+},
+{
+"point": "It has a duck-like bill, webbed feet, and males have venomous spurs.",
+"confidence": "high"
+},
+{
+"point": "The platypus hunts underwater using electroreception to detect prey.",
+"confidence": "high"
+},
+{
+"point": "Its unique traits evolved due to long geographic isolation and adaptation to aquatic environments.",
+"confidence": "high"
 }
+],
+"summary": "The platypus is an Australian mammal with unusual characteristics such as egg-laying, a cloaca, a duck-like bill, venomous spurs in males, and electroreception for hunting, all shaped by isolation and aquatic adaptation."
+}
+
+---
+
+## Run 2
+
+{
+"topic": "Platypus",
+"key_points": [
+{
+"point": "The platypus is a mammal native to Australia.",
+"confidence": "high"
+},
+{
+"point": "Unlike most mammals, it lays eggs and has a cloaca.",
+"confidence": "high"
+},
+{
+"point": "It has a duck-like bill, webbed feet, and males possess venomous spurs.",
+"confidence": "high"
+},
+{
+"point": "The platypus hunts underwater using electroreception to detect prey.",
+"confidence": "high"
+},
+{
+"point": "These traits evolved due to long geographic isolation and adaptation to aquatic environments.",
+"confidence": "high"
+}
+],
+"summary": "The platypus is an Australian mammal with distinctive features such as egg-laying, a cloaca, a duck-like bill, venomous spurs in males, and electroreception, shaped by isolation and adaptation to an aquatic lifestyle."
+}
+
+---
+
+## Run 3
+
+{
+"topic": "Platypus",
+"key_points": [
+{
+"point": "The platypus is a mammal native to Australia.",
+"confidence": "high"
+},
+{
+"point": "Unlike most mammals, it lays eggs and has a cloaca.",
+"confidence": "high"
+},
+{
+"point": "It has a duck-like bill, webbed feet, and males possess venomous spurs.",
+"confidence": "high"
+},
+{
+"point": "The platypus hunts underwater using electroreception to detect prey.",
+"confidence": "high"
+},
+{
+"point": "These traits evolved due to long geographic isolation and adaptation to aquatic environments.",
+"confidence": "high"
+}
+],
+"summary": "The platypus is an Australian mammal known for its unusual biology, including egg-laying, a cloaca, specialized physical traits, and electroreception, shaped by isolation and aquatic adaptation."
+}
+
+
+## Notes
+
+- JSON schema preserved across all runs
+- No extraneous text outside JSON
+- Field names and structure remain identical
+- Variability limited to wording only
+
